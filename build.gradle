@@ -19,7 +19,7 @@ dependencies {
     compile group: 'io.cucumber', name: 'cucumber-java', version: '4.7.2'
     testCompile group: 'io.cucumber', name: 'cucumber-junit', version: '4.7.2'
     compile group: 'io.cucumber', name: 'cucumber-jvm-deps', version: '1.0.6'
-    compile group: 'io.cucumber', name: 'gherkin', version: '7.0.4'
+    compile group: 'io.cucumber', name: 'gherkin', version: '3.2.0'
     testCompile group: 'org.mockito', name: 'mockito-core', version: '3.0.0'
     compile group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '3.141.59'
 }
